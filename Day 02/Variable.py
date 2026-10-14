@@ -22,7 +22,7 @@ is_student=input("Are you a student? (yes/no): ").lower()=="yes"
 print ("Student status:",is_student)
 
 #(if input is yes) or direct you want to type true or false
-is_active=bool(input("enter true or false for is_active"))
+is_active = bool(input("Enter true or false for is_active"))
 print("is_active")
 
 #accept multiple inputs
